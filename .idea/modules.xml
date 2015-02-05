@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-MITM.iml" filepath="$PROJECT_DIR$/Android-MITM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sandroProxyLib/sandroProxyLib.iml" filepath="$PROJECT_DIR$/sandroProxyLib/sandroProxyLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sandroProxyPlugin/sandroProxyPlugin.iml" filepath="$PROJECT_DIR$/sandroProxyPlugin/sandroProxyPlugin.iml" />
+    </modules>
+  </component>
+</project>
+

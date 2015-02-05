@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SandroProxyPlugin</string>
+    <string name="menu_settings">Settings</string>
+    <string name="preference_proxy">Proxy port</string>
+    <string name="preference_proxy_port_text">Port</string>
+    <string name="preference_proxy_port_value">9008</string>
+    <string name="no_data">No data</string>
+    <string name="preference_proxy_plugin_enabled">Use custom plugin</string>
+    <string name="title_activity_main">SandroProxyPlugin</string>
+    <string name="on_proxy">On</string>
+    <string name="off_proxy">Off</string>
+    <string name="data_storage_missing">Missing data storage!</string>
+</resources>
