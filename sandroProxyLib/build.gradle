@@ -1,3 +1,5 @@
+import com.android.build.gradle.tasks.PackageApplication
+
 apply plugin: 'com.android.library'
 
 android {
@@ -14,6 +16,9 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
+    }
+    lintOptions{
+        abortOnError false
     }
 }
 
